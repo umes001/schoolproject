@@ -685,16 +685,8 @@ export default function Home() {
               </p>
             </div>
             
-            <div className="flex items-center space-x-3 pt-6 border-t border-orange-50">
-              <img
-                src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=100"
-                alt="Sarah Jenkins Parent"
-                className="w-10 h-10 rounded-full object-cover"
-              />
-              <div>
-                <h4 className="font-quicksand font-bold text-slate-800 text-sm">Sarah Jenkins</h4>
-                <p className="text-[10px] text-slate-500 font-medium">Mother of Tommy Jenkins (Preschool)</p>
-              </div>
+            <div className="pt-6 border-t border-orange-50">
+              <p className="text-xs text-slate-500 font-semibold italic">— Landmark Public School Parent</p>
             </div>
           </div>
 

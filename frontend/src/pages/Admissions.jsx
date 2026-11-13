@@ -429,7 +429,7 @@ export default function Admissions() {
                         required
                         value={motherName}
                         onChange={(e) => setMotherName(e.target.value)}
-                        placeholder="Sarah Jenkins"
+                        placeholder="e.g. Sunita Sharma"
                         className="w-full p-3 text-xs border border-orange-100 outline-none bg-slate-50 focus:border-brandCoral rounded-xl"
                       />
                     </div>
