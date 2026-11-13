@@ -1,0 +1,16 @@
+{
+  "short_name": "the landmark school",
+  "name": "the landmark school",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "type": "image/png",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#FCFBF7",
+  "theme_color": "#FF7043",
+  "display": "standalone",
+  "orientation": "portrait"
+}
